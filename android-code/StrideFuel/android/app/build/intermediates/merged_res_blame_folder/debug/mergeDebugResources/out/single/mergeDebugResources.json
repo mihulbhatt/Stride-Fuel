@@ -1,0 +1,282 @@
+[
+    {
+        "merged": "com.example.stridefuel.app-debug-49:/drawable_minus.png.flat",
+        "source": "com.example.stridefuel.app-main-51:/drawable/minus.png"
+    },
+    {
+        "merged": "com.example.stridefuel.app-debug-49:/drawable_jam.png.flat",
+        "source": "com.example.stridefuel.app-main-51:/drawable/jam.png"
+    },
+    {
+        "merged": "com.example.stridefuel.app-debug-49:/drawable_lock2.png.flat",
+        "source": "com.example.stridefuel.app-main-51:/drawable/lock2.png"
+    },
+    {
+        "merged": "com.example.stridefuel.app-debug-49:/drawable_custom_macros_bar.xml.flat",
+        "source": "com.example.stridefuel.app-main-51:/drawable/custom_macros_bar.xml"
+    },
+    {
+        "merged": "com.example.stridefuel.app-debug-49:/drawable_nutrition.xml.flat",
+        "source": "com.example.stridefuel.app-main-51:/drawable/nutrition.xml"
+    },
+    {
+        "merged": "com.example.stridefuel.app-debug-49:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.stridefuel.app-main-51:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.stridefuel.app-debug-49:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.stridefuel.app-main-51:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.stridefuel.app-debug-49:/menu_bottom_menu.xml.flat",
+        "source": "com.example.stridefuel.app-main-51:/menu/bottom_menu.xml"
+    },
+    {
+        "merged": "com.example.stridefuel.app-debug-49:/drawable_sleep.xml.flat",
+        "source": "com.example.stridefuel.app-main-51:/drawable/sleep.xml"
+    },
+    {
+        "merged": "com.example.stridefuel.app-debug-49:/drawable_fruits.png.flat",
+        "source": "com.example.stridefuel.app-main-51:/drawable/fruits.png"
+    },
+    {
+        "merged": "com.example.stridefuel.app-debug-49:/font_mulish_semibold.ttf.flat",
+        "source": "com.example.stridefuel.app-main-51:/font/mulish_semibold.ttf"
+    },
+    {
+        "merged": "com.example.stridefuel.app-debug-49:/layout_activity_sign_up.xml.flat",
+        "source": "com.example.stridefuel.app-main-51:/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "com.example.stridefuel.app-debug-49:/drawable_circular_progress.xml.flat",
+        "source": "com.example.stridefuel.app-main-51:/drawable/circular_progress.xml"
+    },
+    {
+        "merged": "com.example.stridefuel.app-debug-49:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.stridefuel.app-main-51:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.stridefuel.app-debug-49:/drawable_breakfast.png.flat",
+        "source": "com.example.stridefuel.app-main-51:/drawable/breakfast.png"
+    },
+    {
+        "merged": "com.example.stridefuel.app-debug-49:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.stridefuel.app-main-51:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.stridefuel.app-debug-49:/drawable_insights.xml.flat",
+        "source": "com.example.stridefuel.app-main-51:/drawable/insights.xml"
+    },
+    {
+        "merged": "com.example.stridefuel.app-debug-49:/drawable_male_black.xml.flat",
+        "source": "com.example.stridefuel.app-main-51:/drawable/male_black.xml"
+    },
+    {
+        "merged": "com.example.stridefuel.app-debug-49:/layout_fragment_dashboard.xml.flat",
+        "source": "com.example.stridefuel.app-main-51:/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "com.example.stridefuel.app-debug-49:/xml_backup_rules.xml.flat",
+        "source": "com.example.stridefuel.app-main-51:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.stridefuel.app-debug-49:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.stridefuel.app-main-51:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.stridefuel.app-debug-49:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.stridefuel.app-main-51:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.stridefuel.app-debug-49:/drawable_placeholder.jpg.flat",
+        "source": "com.example.stridefuel.app-main-51:/drawable/placeholder.jpg"
+    },
+    {
+        "merged": "com.example.stridefuel.app-debug-49:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.stridefuel.app-main-51:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.stridefuel.app-debug-49:/layout_activity_splash.xml.flat",
+        "source": "com.example.stridefuel.app-main-51:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.stridefuel.app-debug-49:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.stridefuel.app-main-51:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.stridefuel.app-debug-49:/drawable_increase.xml.flat",
+        "source": "com.example.stridefuel.app-main-51:/drawable/increase.xml"
+    },
+    {
+        "merged": "com.example.stridefuel.app-debug-49:/drawable_book_open.png.flat",
+        "source": "com.example.stridefuel.app-main-51:/drawable/book_open.png"
+    },
+    {
+        "merged": "com.example.stridefuel.app-debug-49:/drawable_usericon.png.flat",
+        "source": "com.example.stridefuel.app-main-51:/drawable/usericon.png"
+    },
+    {
+        "merged": "com.example.stridefuel.app-debug-49:/anim_slide_out.xml.flat",
+        "source": "com.example.stridefuel.app-main-51:/anim/slide_out.xml"
+    },
+    {
+        "merged": "com.example.stridefuel.app-debug-49:/layout_meal_items.xml.flat",
+        "source": "com.example.stridefuel.app-main-51:/layout/meal_items.xml"
+    },
+    {
+        "merged": "com.example.stridefuel.app-debug-49:/drawable_sports_mode.png.flat",
+        "source": "com.example.stridefuel.app-main-51:/drawable/sports_mode.png"
+    },
+    {
+        "merged": "com.example.stridefuel.app-debug-49:/navigation_nav_graph.xml.flat",
+        "source": "com.example.stridefuel.app-main-51:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.example.stridefuel.app-debug-49:/anim_slide_in_from_left.xml.flat",
+        "source": "com.example.stridefuel.app-main-51:/anim/slide_in_from_left.xml"
+    },
+    {
+        "merged": "com.example.stridefuel.app-debug-49:/drawable_scale.png.flat",
+        "source": "com.example.stridefuel.app-main-51:/drawable/scale.png"
+    },
+    {
+        "merged": "com.example.stridefuel.app-debug-49:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.stridefuel.app-main-51:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.stridefuel.app-debug-49:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.stridefuel.app-main-51:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.stridefuel.app-debug-49:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.stridefuel.app-main-51:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.stridefuel.app-debug-49:/layout_fragment_onboarding.xml.flat",
+        "source": "com.example.stridefuel.app-main-51:/layout/fragment_onboarding.xml"
+    },
+    {
+        "merged": "com.example.stridefuel.app-debug-49:/layout_fragment_track.xml.flat",
+        "source": "com.example.stridefuel.app-main-51:/layout/fragment_track.xml"
+    },
+    {
+        "merged": "com.example.stridefuel.app-debug-49:/layout_activity_login_page.xml.flat",
+        "source": "com.example.stridefuel.app-main-51:/layout/activity_login_page.xml"
+    },
+    {
+        "merged": "com.example.stridefuel.app-debug-49:/drawable_psswdfinal.png.flat",
+        "source": "com.example.stridefuel.app-main-51:/drawable/psswdfinal.png"
+    },
+    {
+        "merged": "com.example.stridefuel.app-debug-49:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.stridefuel.app-main-51:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.stridefuel.app-debug-49:/drawable_icon.png.flat",
+        "source": "com.example.stridefuel.app-main-51:/drawable/icon.png"
+    },
+    {
+        "merged": "com.example.stridefuel.app-debug-49:/drawable_banner.jpg.flat",
+        "source": "com.example.stridefuel.app-main-51:/drawable/banner.jpg"
+    },
+    {
+        "merged": "com.example.stridefuel.app-debug-49:/drawable_dashboard.xml.flat",
+        "source": "com.example.stridefuel.app-main-51:/drawable/dashboard.xml"
+    },
+    {
+        "merged": "com.example.stridefuel.app-debug-49:/drawable_track.xml.flat",
+        "source": "com.example.stridefuel.app-main-51:/drawable/track.xml"
+    },
+    {
+        "merged": "com.example.stridefuel.app-debug-49:/drawable_round_female_24.xml.flat",
+        "source": "com.example.stridefuel.app-main-51:/drawable/round_female_24.xml"
+    },
+    {
+        "merged": "com.example.stridefuel.app-debug-49:/font_font.xml.flat",
+        "source": "com.example.stridefuel.app-main-51:/font/font.xml"
+    },
+    {
+        "merged": "com.example.stridefuel.app-debug-49:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.stridefuel.app-main-51:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.stridefuel.app-debug-49:/drawable_rounded_edittext.xml.flat",
+        "source": "com.example.stridefuel.app-main-51:/drawable/rounded_edittext.xml"
+    },
+    {
+        "merged": "com.example.stridefuel.app-debug-49:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.stridefuel.app-main-51:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.stridefuel.app-debug-49:/drawable_flafel.png.flat",
+        "source": "com.example.stridefuel.app-main-51:/drawable/flafel.png"
+    },
+    {
+        "merged": "com.example.stridefuel.app-debug-49:/drawable_profile.xml.flat",
+        "source": "com.example.stridefuel.app-main-51:/drawable/profile.xml"
+    },
+    {
+        "merged": "com.example.stridefuel.app-debug-49:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.stridefuel.app-main-51:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.stridefuel.app-debug-49:/layout_activity_main.xml.flat",
+        "source": "com.example.stridefuel.app-main-51:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.stridefuel.app-debug-49:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.stridefuel.app-main-51:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.stridefuel.app-debug-49:/drawable_passlock.png.flat",
+        "source": "com.example.stridefuel.app-main-51:/drawable/passlock.png"
+    },
+    {
+        "merged": "com.example.stridefuel.app-debug-49:/drawable_add.png.flat",
+        "source": "com.example.stridefuel.app-main-51:/drawable/add.png"
+    },
+    {
+        "merged": "com.example.stridefuel.app-debug-49:/drawable_emailfinal.png.flat",
+        "source": "com.example.stridefuel.app-main-51:/drawable/emailfinal.png"
+    },
+    {
+        "merged": "com.example.stridefuel.app-debug-49:/drawable_heart_plus.png.flat",
+        "source": "com.example.stridefuel.app-main-51:/drawable/heart_plus.png"
+    },
+    {
+        "merged": "com.example.stridefuel.app-debug-49:/font_mulish_bold.ttf.flat",
+        "source": "com.example.stridefuel.app-main-51:/font/mulish_bold.ttf"
+    },
+    {
+        "merged": "com.example.stridefuel.app-debug-49:/drawable_custom_card_selector.xml.flat",
+        "source": "com.example.stridefuel.app-main-51:/drawable/custom_card_selector.xml"
+    },
+    {
+        "merged": "com.example.stridefuel.app-debug-49:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.stridefuel.app-main-51:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.stridefuel.app-debug-49:/layout_fragment_profile.xml.flat",
+        "source": "com.example.stridefuel.app-main-51:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.example.stridefuel.app-debug-49:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.stridefuel.app-main-51:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.stridefuel.app-debug-49:/drawable_dinner.png.flat",
+        "source": "com.example.stridefuel.app-main-51:/drawable/dinner.png"
+    },
+    {
+        "merged": "com.example.stridefuel.app-debug-49:/drawable_emailrealicon.png.flat",
+        "source": "com.example.stridefuel.app-main-51:/drawable/emailrealicon.png"
+    },
+    {
+        "merged": "com.example.stridefuel.app-debug-49:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.stridefuel.app-main-51:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.stridefuel.app-debug-49:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.stridefuel.app-main-51:/drawable/ic_launcher_foreground.xml"
+    }
+]

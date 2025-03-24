@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Background Track -->
+    <item>
+        <shape
+            android:shape="ring"
+            android:innerRadius="24dp"
+            android:thickness="8dp"
+            android:useLevel="false">
+
+            <stroke
+                android:width="8dp"
+                android:color="#F0F0F0"/> <!-- Solid background -->
+        </shape>
+    </item>
+
+    <!-- Progress Layer -->
+    <item>
+        <rotate
+            android:fromDegrees="180"
+        android:pivotX="50%"
+        android:pivotY="50%">
+
+        <shape
+            android:shape="ring"
+            android:innerRadius="24dp"
+            android:thickness="8dp"
+            android:useLevel="true">
+
+            <stroke
+                android:width="8dp"
+                android:color="#72D1BF"/> <!-- Progress color -->
+        </shape>
+    </rotate>
+</item>
+
+    </layer-list>

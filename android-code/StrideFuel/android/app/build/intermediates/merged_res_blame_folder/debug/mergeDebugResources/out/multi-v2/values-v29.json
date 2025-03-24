@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.stridefuel.app-mergeDebugResources-47:/values-v29/values-v29.xml",
+            "map": [
+                {
+                    "source": "D:\\Softwares\\AndroidStudio\\StrideFuel\\app\\src\\main\\res\\values-v29\\themes.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "106",
+                        "endLines": "7",
+                        "endColumns": "12",
+                        "endOffsets": "423"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "100",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "305"
+                    }
+                }
+            ]
+        }
+    ]
+}

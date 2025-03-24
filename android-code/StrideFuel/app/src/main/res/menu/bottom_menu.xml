@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Dashboard"
+        android:id="@+id/navdashboard"
+        android:icon="@drawable/dashboard" />
+
+    <item android:title="Track"
+        android:id="@+id/navtrack"
+        android:icon="@drawable/track"/>
+
+    <item android:title="Profile"
+        android:id="@+id/navprofile"
+        android:icon="@drawable/profile"/>
+</menu>

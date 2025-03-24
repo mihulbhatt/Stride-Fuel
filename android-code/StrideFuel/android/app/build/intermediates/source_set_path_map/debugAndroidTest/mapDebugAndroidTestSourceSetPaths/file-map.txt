@@ -1,0 +1,5 @@
+com.example.stridefuel.test.app-core-1.6.1-0 C:\Users\mihul\.gradle\caches\8.10.2\transforms\72616fe43394ba8fa070a8b6aa23e80f\transformed\core-1.6.1\res
+com.example.stridefuel.test.app-androidTest-1 D:\Softwares\AndroidStudio\StrideFuel\app\build\generated\res\resValues\androidTest\debug
+com.example.stridefuel.test.app-mergeDebugAndroidTestResources-2 D:\Softwares\AndroidStudio\StrideFuel\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.stridefuel.test.app-mergeDebugAndroidTestResources-3 D:\Softwares\AndroidStudio\StrideFuel\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.stridefuel.test.app-debugAndroidTest-4 D:\Softwares\AndroidStudio\StrideFuel\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

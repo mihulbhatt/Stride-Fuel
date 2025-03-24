@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Stride Fuel</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="access_account">Access Account</string>
+    <string name="stay_motivated_stay_active">Stay motivated, stay active!</string>
+    <string name="your_username">Your username</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="user_image">user image</string>
+    <string name="login_progressbar">Login ProgressBar</string>
+    <string name="log_in">Log In</string>
+    <string name="user_icon">user icon</string>
+    <string name="password_icon">password icon</string>
+    <string name="need_to_create_an_account">Need to create an account?</string>
+    <string name="sign_up">Sign Up</string>
+</resources>

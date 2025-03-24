@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Base.Theme.StrideFuel" parent="Theme.Material3.DayNight.NoActionBar" tools:ignore="DuplicateDefinition">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+        <item name="android:forceDarkAllowed">false</item>
+    </style>
+</resources>
